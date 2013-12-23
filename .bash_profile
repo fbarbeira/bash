@@ -1,6 +1,6 @@
 # Establecemos el PATH para que pille con prioridad los programas instalados
 # mediante brew.
-PATH="/usr/local/bin:${PATH}"
+PATH="/usr/local/bin:/usr/local/sbin:${PATH}"
 
 # Brew completions.
 if [ -f `brew --prefix`/etc/bash_completion ]; then
