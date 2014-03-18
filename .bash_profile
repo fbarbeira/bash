@@ -30,6 +30,7 @@ alias rgrep='grep -r'
 alias d='cd ..'
 alias tf='tail -f -n 34'
 alias va='vagrant'
+alias gitlog='git log --decorate=short'
 
 # Shell colors.
 export CLICOLOR=1
