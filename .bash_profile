@@ -31,6 +31,8 @@ alias d='cd ..'
 alias tf='tail -f -n 34'
 alias va='vagrant'
 alias gitlog='git log --decorate=short'
+alias gs='git status'
+alias gr='git remote -v'
 
 # Shell colors.
 export CLICOLOR=1
