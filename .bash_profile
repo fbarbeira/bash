@@ -33,6 +33,7 @@ alias va='vagrant'
 alias gitlog='git log --decorate=short'
 alias gs='git status'
 alias gr='git remote -v'
+alias pass='openssl rand -base64 15'
 
 # Shell colors.
 export CLICOLOR=1
