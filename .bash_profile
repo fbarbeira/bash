@@ -32,6 +32,7 @@ alias tf='tail -f -n 34'
 alias va='vagrant'
 alias gitlog='git log --decorate=short'
 alias gs='git status'
+alias gb='git branch'
 alias gr='git remote -v'
 alias pass='openssl rand -base64 15'
 
